@@ -5,7 +5,7 @@
 A Next.js Stripe Ecommerce store with Sanity CMS <br /> <br />
 E-commerce website fulfilling extensive client requirements to enhance user experience and business development. <br />
 - Fully responsive Next.js full stack application with payments functionality, animations, and the ability to add and edit products using SANITY CSM. <br />
-- Next.js best practices in this project include, file-based routing, data fetching that allows server-side rendering and static generation which makes this <br />
+- Next.js best practices in this project include, file-based routing, data fetching that allows server-side rendering and static generation which makes this 
 web app incredibly optimized with (show getServerSideProps, getStaticPaths, getStaticProps, and use of Next.js as a backend endpoint).
 - Stripe integration uses payment management, products, shipping rates, and the entire checkout process. <br />
 - Through SANITY content management system, a client or myself are able to change the stores homepage, details of all the products in the store, instantly and on the go. <br />
