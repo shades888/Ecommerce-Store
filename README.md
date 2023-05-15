@@ -1,6 +1,6 @@
 # ecommerce-store
-A Next.js Ecommerce store with Stripe shopp
-ing cart, and a Sanity backend Content Creation System
+A Next.js Stripe Ecommerce store with Sanity CMS
+
 <img width="1440" alt="Screenshot 2023-04-09 at 9 22 33 PM" src="https://github.com/shades888/ecommerce-store/assets/6867600/a7e93373-edd2-45d7-af97-246c5cc96527">
 E-commerce website fulfilling extensive client requirements to enhance user experience and business development. <br />
 - Fully responsive Next.js full stack application with payments functionality, animations, and the ability to add and edit products using SANITY CSM. <br />
